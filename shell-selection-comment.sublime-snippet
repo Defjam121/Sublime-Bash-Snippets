@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+#
+# ${1:section name}
+# --------------------------------------------------------------------
+]]></content>
+  <tabTrigger>comment-selection</tabTrigger>
+  <description>Commet Shell selection</description>
+  <scope>source.shell, source.sh, source.zsh</scope>
+</snippet>

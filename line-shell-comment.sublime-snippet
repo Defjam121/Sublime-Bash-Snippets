@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+# ======================================================== #
+]]></content>
+  <tabTrigger>line</tabTrigger>
+  <description># == # line Shell# ---</description>
+  <scope>source.shell, source.sh, source.zsh</scope>
+</snippet>

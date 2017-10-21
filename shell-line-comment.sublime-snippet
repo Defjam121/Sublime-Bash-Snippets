@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+# -- ${1:section name} ------------
+]]></content>
+  <tabTrigger>comment-line</tabTrigger>
+  <description>Commet Shell# ---</description>
+  <scope>source.shell, source.sh, source.zsh</scope>
+</snippet>
